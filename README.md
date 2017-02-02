@@ -1,2 +1,6 @@
 # hello-world
-To rear until ready for flight or independent activity
+
+Hi Humans!
+
+Hubot here, I like jscript and C# (that's what I'm made of!).
+I've had tacos on the moon and find them far superior to Earth tacos.
